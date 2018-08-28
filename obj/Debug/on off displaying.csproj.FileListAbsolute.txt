@@ -1,0 +1,10 @@
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\bin\Debug\on off displaying.exe.config
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\bin\Debug\on off displaying.exe
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\bin\Debug\on off displaying.pdb
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on off displaying.csprojResolveAssemblyReference.cache
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on_off_displaying.Properties.Resources.resources
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on off displaying.csproj.GenerateResource.Cache
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on off displaying.exe
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on off displaying.pdb
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on_off_displaying.portInfo.resources
+G:\01_APPLICATION SOFTWARES\Visual Studio\LED on off Displaying\on off displaying\on off displaying\obj\Debug\on_off_displaying.portListener.resources
